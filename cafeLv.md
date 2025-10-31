@@ -6,11 +6,17 @@
 
 ## 🪞 로고 (또는 대표 이미지)
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Vuitton_logo_and_wordmark.svg/165px-Louis_Vuitton_logo_and_wordmark.svg.png" alt="Louis Vuitton Logo" width="200"/>
+</p>
 
 ---
 
 ## 🌇 외관 / 전경
 
+<p align="center">
+  <img src="https://kr.louisvuitton.com/content/dam/lv/online/high-end/wolv/la-maison/U_Ma_LVMS_Library_Cafe_Opening_2025.html/jcr:content/assets/LVMS_LIBRARYCAFE_2025_LOCATION_EMPTY_SET01_LVCOM_2048x1152_DI3.jpg?imwidth=2400" alt="Le Café Louis Vuitton Seoul Exterior" width="600"/>
+</p>
 
 > 루이비통 메종 서울 4층에 위치한 **르 카페 루이비통**은 예술적 감각과 미식을 함께 경험할 수 있는 프리미엄 공간입니다.  
 
@@ -43,12 +49,12 @@
 - **분위기:** 예술 갤러리 같은 공간 속에서 즐기는 커피 한 잔  
 - **특징:** 통창 너머로 청담 풍경을 내려다보는 여유로운 오후
 
-<p align="center">
-  <img src="https://www.lvmh.com/wp-content/uploads/2021/06/louis-vuitton-cheongdam-cafe-interior.jpg" alt="Le Café Louis Vuitton Seoul Interior" width="600"/>
-</p>
-
 ---
 
 ## 📝 리뷰
 
 > ⭐ **평균 평점:** 4.8 / 5.0  
+
+- “프리미엄 브랜드 카페 느낌 제대로! 분위기와 디저트가 최고” — *@user1*  
+- “파리 감성 그대로 재현, 사진 찍기 좋은 공간” — *@user2*  
+- “브런치 메뉴가 특별하고, 커피 맛도 훌륭” — *@user3*  

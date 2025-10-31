@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220716_65%2F1657965821673Tigws_JPEG%2F1657965275981-1.jpg" alt="로고" width="200"/>
+  <img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240130_236%2F170662661054190XFs_JPEG%2FUntitled-7.jpg" alt="로고" width="200"/>
 </p>
 
 ## 🌇 외관 / 전경

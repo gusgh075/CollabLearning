@@ -15,7 +15,7 @@
 ## 🌇 외관 / 전경
 
 <p align="center">
-  <img src="https://kr.louisvuitton.com/content/dam/lv/online/high-end/wolv/la-maison/U_Ma_LVMS_Library_Cafe_Opening_2025.html/jcr:content/assets/LVMS_LIBRARYCAFE_2025_LOCATION_EMPTY_SET01_LVCOM_2048x1152_DI3.jpg?imwidth=2400" alt="Le Café Louis Vuitton Seoul Exterior" width="600"/>
+  <img src="https://kr.louisvuitton.com/content/dam/lv/online/high-end/wolv/la-maison/U_Ma_LVMS_Library_Cafe_Opening_2025.html/jcr:content/assets/LVMS_LIBRARYCAFE_2025_LOCATION_EMPTY_SET01_LVCOM_2048x1152_DI3.jpg" width="600"/>
 </p>
 
 > 루이비통 메종 서울 4층에 위치한 **르 카페 루이비통**은 예술적 감각과 미식을 함께 경험할 수 있는 프리미엄 공간입니다.  
